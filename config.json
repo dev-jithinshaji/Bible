@@ -1,0 +1,21 @@
+{
+  "dbVersion": 1,
+  "languages": [
+    {
+      "lang": "malayalam",
+      "url": "https://raw.githubusercontent.com/dev-jithinshaji/Bible/refs/heads/main/bible-verses/malayalam.json"
+    },
+    {
+      "lang": "tamil",
+      "url": "https://raw.githubusercontent.com/dev-jithinshaji/Bible/refs/heads/main/bible-verses/tamil.json"
+    },
+    {
+      "lang": "english",
+      "url": "https://raw.githubusercontent.com/dev-jithinshaji/Bible/refs/heads/main/bible-verses/english.json"
+    },
+    {
+      "lang": "hindi",
+      "url": "https://raw.githubusercontent.com/dev-jithinshaji/Bible/refs/heads/main/bible-verses/hindi.json"
+    }
+  ]
+}
